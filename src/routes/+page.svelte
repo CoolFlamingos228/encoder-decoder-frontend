@@ -1,5 +1,5 @@
 <script>
-	import image from '$lib/components/Smiling_face_with_heart-eyes.svg'
+	import image from '/Smiling_face_with_heart-eyes.svg'
 
 	let text_e = ''
 	let text_d = ''
