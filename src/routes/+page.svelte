@@ -74,8 +74,32 @@
 			<div class="drawer-side">
 				<label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
 				<ul class="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
-					<li>Sidebar Item 1</li>
-					<li>Sidebar Item 2</li>
+					<li>:) - 😊</li>
+					<li>;) - 😉</li>
+					<li>XD - 😆</li>
+					<li>:| - 😐</li>
+					<li>:* - 😘</li>
+					<li>:x - 😵</li>
+					<li>:( - 😞</li>
+					<li>:$ - 🤑</li>
+					<li>:& - 🤥</li>
+					<li>:D - 😄</li>
+					<li>:\ - 😢</li>
+					<li>:P - 😋</li>
+					<li>:O - 😲</li>
+					<li>:/ - 😕</li>
+					<li>:S - 😖</li>
+					<li>:b - 😛</li>
+					<li>:! - 😤</li>
+					<li>:-( - ☹️</li>
+					<li>*) - 😍</li>
+					<li>love - ❤️</li>
+					<li>hate - 💔</li>
+					<li>clown - 🤡</li>
+					<li>lion - 🦁</li>
+					<li>queen - 👸</li>
+					<li>wolf - 🐺</li>
+					<li>draw - 🖌️</li>
 				</ul>
 			</div>
 		</div>
